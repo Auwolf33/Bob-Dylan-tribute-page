@@ -2,5 +2,47 @@
 font-family: 'Playfair Display', serif; */
 
 #main {
-    font-family: 'Playfair Display';
+    font-family: 'Newsreader', serif;
+    text-align: center;
+    margin-top: 0;
+}
+header {
+    background-color: rgb(235, 212, 181);
+    padding: 0.5em 0em;
+    font-family: "Playfair Display", serif;
+}
+#img-div {
+    margin-top: 3em;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+#img-caption {
+    margin-top: 5px;
+    font-size: small;
+}
+#tribute-info {
+    background-color: blanchedalmond;
+    padding: 50px 10px;
+}
+#headline {
+    margin-top: 50px;
+    font-size: 2em;
+}
+#list {
+    text-align: left;
+    margin: 50px auto;
+    max-width: 800px;
+}
+#list li {
+    margin: 1em 0;
+    line-height: 1.5em;
+    font-size: larger;
+}
+footer {
+    background-color: blanchedalmond;
+    padding: 1em;
 }
